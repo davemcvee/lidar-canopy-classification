@@ -1,0 +1,11 @@
+name: lidar
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pdal
+  - python-pdal
+  - pyproj
+  - numpy
+  - pandas
+  - matplotlib

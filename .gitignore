@@ -1,0 +1,10 @@
+# Point cloud data is large and regenerable (see README)
+data/*
+!data/.gitkeep
+
+# Editor and OS clutter
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
